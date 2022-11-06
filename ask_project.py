@@ -52,7 +52,7 @@ def xchg_data(first, second):
     return first, second
 
 def not_data():
-    pass
+    return 0
 
 def run_again():
     while True:
